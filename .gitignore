@@ -1,0 +1,23 @@
+# macos
+.DS_Store
+
+# python
+.ipynb_checkpoints
+__pycache__
+
+# propulate
+*.log
+*.out
+*.error
+*.bkp
+*.pkl
+
+# ide
+.vscode/*
+
+data/*
+runs*
+*.csv
+
+# trained models
+models/*
